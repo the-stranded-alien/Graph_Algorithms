@@ -1,0 +1,5 @@
+Storing a Graph
+1. Adjacency List => list<list>, vector<list>, vector<vector>, hashmap<int, list>
+2. Adjacency Matrix => 2-D Matrix
+3. Edge List => list<triplet<wt, src, dest>>
+4. 2D Matrix (Implicit Graph)
