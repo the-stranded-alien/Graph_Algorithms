@@ -69,6 +69,15 @@ public:
         vector<bool> visited(V, false);
         return dfs(0, visited, -1);
     }
+
+    // For Submission
+    bool contains_cycle(int V, vector<pair<int, int> > edges) {
+        Graph g(V);
+        for(auto edge : edges) {
+            g.addEdge(edge.F, edge.S);
+        }
+        return g.containsCycle();
+    }
 };
 
 int main() {
