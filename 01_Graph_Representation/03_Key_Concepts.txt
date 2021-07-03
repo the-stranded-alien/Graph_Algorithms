@@ -1,0 +1,15 @@
+Graph Key Concepts
+
+-> Vertex & Edge
+
+Types of Graph =>
+
+1. Weighted Graph -> Graphs whose edges or paths have values called weights.
+Edge value represent weight/cost/length.
+
+2. Unweighted Graph -> There is no value or weight associated with the edge. By
+default, all the graphs are unweighted unless there is a value associated.
+
+3. Undirected Graph -> All edges are bi-directional.
+
+4. Directed Graph -> Edges are directed from one node to another.

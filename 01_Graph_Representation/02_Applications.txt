@@ -1,0 +1,10 @@
+1. Shortest Paths
+2. Social Networks
+3. Shortest Cyclic Route
+4. Dependency Graphs
+5. Routing Algorithms
+6. Computation Graphs
+7. Computer Vision
+8. Web Crawlers
+9. Physics and Chemistry
+10. Graph Databases Ex. Neo4j
