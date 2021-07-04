@@ -1,0 +1,13 @@
+Topological sorting for Directed Acyclic Graph(DAG) is a linear ordering
+of vertices such that fpr every directed edge u v, vertex u comes before v 
+in the ordering. Topological sorting for a graph is not possible if the
+graph is not a DAG.
+
+Application ->
+
+1. Scheduling jobs from the given dependencies among jobs.
+2. Instruction Scheduling.
+3. Ordering of formula cell evaluation when recomputing formula values in spreadsheets.
+4. Logic Synthesis.
+5. Determining the order of compilation tasks to perform in make files, 
+data serialization, and resolving symbol dependencies in linkers.
