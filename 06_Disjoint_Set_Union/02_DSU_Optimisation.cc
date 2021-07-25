@@ -105,6 +105,7 @@ public:
             }
         }
         delete [] parent;
+        delete [] rank;
         return false;
     }
 };  
