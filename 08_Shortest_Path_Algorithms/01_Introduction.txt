@@ -1,0 +1,25 @@
+Shortest Path Algorithms
+
+Single Source Shortest Path
+
+1. BFS 
+-> Only for Unweighted Graph
+-> Single Source Shortest Path (SSSP)
+-> O(V + E) Time
+
+2. Dijkstra's Algorithm
+-> Weighted Graph
+-> Single Source Shortest Path (SSSP)
+-> Greedy Algorithm
+-> Dijkstra Doesn't Work for Graphs with Negative Weight Edges.
+
+3. Bellman Ford Algorithm
+-> Weighted Graph
+-> Single Source Shortest Path (SSSP)
+-> Bellman Ford Works for Graphs with Negative Weight Edges.
+
+All-Pairs Shortest Path
+
+4. Floyd Warshall Algorithm
+-> All Pairs Shortest Paths (APSP)
+-> Dynamic Programming based Algorithm
